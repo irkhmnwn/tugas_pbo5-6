@@ -1,2 +1,3 @@
-# tugas_pbo5-6
-Program CRUD dengan GUI &amp; Report
+# Program CRUD dengan GUI & Report
+
+Pada program ini berisi mengenai fungsi CRUD yang diaplikasikan menggunakan GUI pada NetBeans, dan juga berisi dengan report menggunakan JasperReport. 
